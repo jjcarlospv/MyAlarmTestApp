@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyAlarmTestApp</string>
+
+    <string name="Status">Estado: %s</string>
+    <string name="Status_programmed">Alarma Programada</string>
+    <string name="Status_canceled">Alarma Cancelada</string>
+    <string name="alarm_programar_alarma">Programar Alarma</string>
+    <string name="alarm_cancelar_alarma">Cancelar Alarma</string>
+</resources>
